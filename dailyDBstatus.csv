@@ -1,0 +1,36 @@
+"NAME","STATUS","SESSIONS","PROCESSES","Active Session","Inactive Session","DB Locks","Blocking Session","Tablesapce Above 80","FRA Usage","DR Sync","DB_SIZE"
+"GALAXY","OPEN",570,532,177,498,"No","No","",1,"NO GAP",49.36
+
+"NAME","STATUS","SESSIONS","PROCESSES","Active Session","Inactive Session","DB Locks","Blocking Session","Tablesapce Above 80","FRA Usage","DR Sync","DB_SIZE"
+"GLXYPAC","OPEN",146,108,170,11,"No","No","",1,"NO GAP",8.27
+
+"NAME","STATUS","SESSIONS","PROCESSES","Active Session","Inactive Session","DB Locks","Blocking Session","Tablesapce Above 80","FRA Usage","DR Sync","DB_SIZE"
+"JWPAC","OPEN",141,104,178,14,"No","No","",7,"RESOLVABLE GAP",20.02
+
+"NAME","STATUS","SESSIONS","PROCESSES","Active Session","Inactive Session","DB Locks","Blocking Session","Tablesapce Above 80","FRA Usage","DR Sync","DB_SIZE"
+"MASTER","OPEN",188,156,159,129,"No","No","",7,"NO GAP",22.91
+
+"NAME","STATUS","SESSIONS","PROCESSES","Active Session","Inactive Session","DB Locks","Blocking Session","Tablesapce Above 80","FRA Usage","DR Sync","DB_SIZE"
+"PAC","OPEN",128,99,161,21,"No","No","",1,"NO GAP",36
+
+"NAME","STATUS","SESSIONS","PROCESSES","Active Session","Inactive Session","DB Locks","Blocking Session","Tablesapce Above 80","FRA Usage","DR Sync","DB_SIZE"
+"SGCLOUD","OPEN",705,668,199,1098,"No","No","SISTIC",1,"NO GAP",956.8
+
+"NAME","STATUS","SESSIONS","PROCESSES","Active Session","Inactive Session","DB Locks","Blocking Session","Tablesapce Above 80","FRA Usage","DR Sync","DB_SIZE"
+"SPMASTER","OPEN",164,126,175,40,"No","No","",0,"RESOLVABLE GAP",13.19
+
+"NAME","STATUS","SESSIONS","PROCESSES","Active Session","Inactive Session","DB Locks","Blocking Session","Tablesapce Above 80","FRA Usage","DR Sync","DB_SIZE"
+"SPTSHUB","OPEN",756,719,174,794,"No","No","",1,"NO GAP",74.04
+
+"NAME","STATUS","SESSIONS","PROCESSES","Active Session","Inactive Session","DB Locks","Blocking Session","Tablesapce Above 80","FRA Usage","DR Sync","DB_SIZE"
+"SPTSPAC","OPEN",133,101,159,19,"No","No","",1,"NO GAP",14.23
+
+"NAME","STATUS","SESSIONS","PROCESSES","Active Session","Inactive Session","DB Locks","Blocking Session","Tablesapce Above 80","FRA Usage","DR Sync","DB_SIZE"
+"VENETIAN","OPEN",634,722,180,577,"No","No","",1,"NO GAP",118.57
+
+"NAME","STATUS","SESSIONS","PROCESSES","Active Session","Inactive Session","DB Locks","Blocking Session","Tablesapce Above 80","FRA Usage","DR Sync","DB_SIZE"
+"WKCD","OPEN",244,212,171,235,"No","No","",1,"NO GAP",67.99
+
+"NAME","STATUS","SESSIONS","PROCESSES","Active Session","Inactive Session","DB Locks","Blocking Session","Tablesapce Above 80","FRA Usage","DR Sync","DB_SIZE"
+"WKCDPAC","OPEN",164,125,175,52,"No","No","",0,"NO GAP",23.4
+
